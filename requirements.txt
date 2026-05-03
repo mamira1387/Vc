@@ -1,0 +1,7 @@
+rubpy
+aiortc
+aiohttp
+aiofiles
+pycryptodome
+markdownify
+mutagen
